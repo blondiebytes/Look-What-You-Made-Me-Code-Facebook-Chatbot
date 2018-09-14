@@ -74,7 +74,7 @@ const taylorquotes = [
 "Well, I don't know how it gets better than this.",
 "We had this big, wide city all to ourselves.",
 "Just because you're clean don't mean you don't miss it.",
-"Time won't fly — it's like I'm paralyzed by it."
+"Time won't fly — it's like I'm paralyzed by it.",
 "I've found time can heal most anything.",
 "For the first time, what's past is past.",
 "Wasn't it beautiful when you believed in everything?",
@@ -83,7 +83,7 @@ const taylorquotes = [
 "My mind forgets to remind me you're a bad idea.",
 "If you come my way, just don't.",
 "Words, how little they mean when you're a little too late.",
-"People like me are gone forever when you say goodbye."
+"People like me are gone forever when you say goodbye.",
 "Wondered how many girls he had loved and left haunted, but if he’s a ghost then I can be a phantom.",
 "And he can be my jailer, Burton to this Taylor.",
 "Baby, let the games begin.",
