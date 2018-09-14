@@ -42,7 +42,7 @@ app.post('/webhook/', function (req, res) {
 const token = "EAADk7mvTLxEBACgR50UQmZA8ERQL3EIBN9ZCD5F4wqGlx5XVjolaDZBBAHE6UCXo6rxHvt45TLmD5SupKuLHfh2oECpfmzPnIqvNEnNXH0v2qT8a6sqLVTvObSxZCv9uIdCJWPbPkkeITDnRO3axn7oCY7CEpxZBmS8ZBc4rEU8AZDZD"
 
 function decideMessage(sender) {
-    sendTextMessage("You Belong With Me!")
+    sendTextMessage(sender, "You Belong With Me!")
 }
 
 function sendTextMessage(sender, text) {
